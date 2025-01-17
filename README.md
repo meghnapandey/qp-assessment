@@ -7,7 +7,7 @@ Below are the instruction for getting started with the booking api
 ### Prerequisites
 
 - [Node.js](https://nodejs.org/) installed
-- [MySql] for relational database
+- MySql for relational database
 
 ### Installation
 
@@ -15,7 +15,6 @@ Below are the instruction for getting started with the booking api
 
     ```bash
     git clone https://github.com/meghnapandey/qp-assessment.git
-    cd qp-assessment
     ```
 
 2. Install dependencies:
